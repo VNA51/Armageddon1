@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Armageddon1/static/css/main.cf8fe000.css",
+    "main.js": "/Armageddon1/static/js/main.bd922c2b.js",
+    "index.html": "/Armageddon1/index.html",
+    "main.cf8fe000.css.map": "/Armageddon1/static/css/main.cf8fe000.css.map",
+    "main.bd922c2b.js.map": "/Armageddon1/static/js/main.bd922c2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf8fe000.css",
+    "static/js/main.bd922c2b.js"
+  ]
+}
