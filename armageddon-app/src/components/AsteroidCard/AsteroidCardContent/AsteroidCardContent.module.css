@@ -1,0 +1,31 @@
+/* Стили для контента карточки */
+.contentWrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    padding: 16px;
+    text-align:center;
+    flex:1;
+}
+.contentName
+{
+    font-weight: bold;
+    text-decoration-line: underline;
+    font-size:20px;
+    margin-bottom:10px;
+    color:#222;
+
+}
+.detail {
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+    margin-bottom:8px;
+    gap:8px;
+}
+
+.detailLabel {
+    font-weight: bold;
+    color: #555;
+
+}

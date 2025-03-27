@@ -1,0 +1,36 @@
+.container {
+    width: 80vw;
+    margin:0 auto;
+    display:flex;
+    flex-direction:row;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.button_view_asteroids
+{
+    background-color: #4CAF50;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+    margin-right: 20px;
+}
+
+.button_type_visual_destoyment
+{
+    background-color: #eb1e22;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+    margin-right: 20px;
+}
